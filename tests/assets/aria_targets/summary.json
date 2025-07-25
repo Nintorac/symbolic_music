@@ -1,0 +1,17 @@
+{
+  "total_files": 4,
+  "total_tokenizations": 8,
+  "successful_tokenizations": 8,
+  "failed_tokenizations": 0,
+  "round_trip_successes": 8,
+  "files_processed": [
+    "pop.mid",
+    "arabesque.mid",
+    "transcription.mid",
+    "basic.mid"
+  ],
+  "tokenizers_used": [
+    "AbsTokenizer",
+    "RelTokenizer"
+  ]
+}
