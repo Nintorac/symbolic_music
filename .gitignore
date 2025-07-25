@@ -3,3 +3,4 @@ target/
 .venv/
 *.so
 .pytest_cache/
+results/
