@@ -118,7 +118,8 @@ jobs:
   release:
     name: Release
     runs-on: ubuntu-latest
-    if: "startsWith(github.ref, 'refs/tags/')"
+    # if: "startsWith(github.ref, 'refs/tags/')"
+    if: false
     needs: [linux, windows, macos, sdist]
     environment:
       name: pypi
