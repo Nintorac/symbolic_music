@@ -3,4 +3,5 @@ target/
 .venv/
 *.so
 .pytest_cache/
-results/
+tests/assets/results/*
+!tests/assets/results/.gitkeep
