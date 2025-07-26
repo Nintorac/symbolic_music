@@ -2,6 +2,13 @@
 
 A high-performance Rust library with Python bindings for fast symbolic music format conversion, designed specifically for high performance machine learning applications. 
 
+## Installation
+
+### From PyPI
+
+```bash
+pip install symbolic-music
+```
 
 ## Setup and Development
 
